@@ -35,5 +35,7 @@ div#details {
 }
 
 div {
-  background-color: 
+  background-color: #00FF00;
+  text-align: center;
+  width: 25%;
 }
